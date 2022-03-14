@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.1",
+    "openai": "^2.0.4",
+    "twitter-api-v2": "^1.11.0"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
